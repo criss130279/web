@@ -34,5 +34,5 @@ function resultado() {
 
     nota=p1+p2+p3+p4+p5+p6+p7+p8+p9+p10;
     alert(" NINGÚN PROBLEMA ES TAN GRAVE SI ACEPTAS QUE NECESITAS AYUDA: " + nota);
-    window.location = 'cuestionario.html'
+    window.location = 'index.html'
 }
